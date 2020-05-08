@@ -17,6 +17,7 @@ import org.doubango.ngn.sip.NgnInviteSession;
 
 import ro.pub.cs.systems.eim.lab09.ngnsip.R;
 import ro.pub.cs.systems.eim.lab09.ngnsip.general.Constants;
+import ro.pub.cs.systems.eim.lab09.ngnsip.view.VoiceCallActivity;
 
 public class VoiceCallBroadcastReceiver extends BroadcastReceiver {
 
